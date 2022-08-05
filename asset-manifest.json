@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-fundamental-course/static/css/main.c98ea1d0.css",
+    "main.js": "/react-fundamental-course/static/js/main.ae34ebd8.js",
+    "index.html": "/react-fundamental-course/index.html",
+    "main.c98ea1d0.css.map": "/react-fundamental-course/static/css/main.c98ea1d0.css.map",
+    "main.ae34ebd8.js.map": "/react-fundamental-course/static/js/main.ae34ebd8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c98ea1d0.css",
+    "static/js/main.ae34ebd8.js"
+  ]
+}
